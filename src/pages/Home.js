@@ -24,6 +24,9 @@ export default function Home() {
           (onsite) to solve the problem within 30 to 45 minutes.
         </p>
       </div>
+      <div>
+        <h1>Types of Interview: </h1>
+      </div>
     </Card>
   );
 }
